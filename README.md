@@ -1,2 +1,11 @@
-# String-to-ID-to-String
-a small code that converts a string into a unique ID and an ID into a unique String.
+## RandString
+
+> Converts string to random numbers and vice-versa.
+
+## Usage
+
+> Depends where you want to use.
+
+## License
+
+__NO__
